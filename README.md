@@ -15,8 +15,7 @@ My application will have totally 3 repo. This repo is devops, the others are fol
 ## Hours Keeping
 | Day | hours | work |
 |:----:|:-----|:-----|
-
-|total front end |103| https://github.com/LeTranAnhVu/fullstack-open-project-flask
-|total backend end |86| https://github.com/LeTranAnhVu/fullstack-open-project-react
-|total devops end |11|
-|**total this project**|**200**|
+|total front end |103| https://github.com/LeTranAnhVu/fullstack-open-project-flask|
+|total backend end |86| https://github.com/LeTranAnhVu/fullstack-open-project-react|
+|total devops end |11||
+|**total this project**|**200**||
