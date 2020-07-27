@@ -1,0 +1,6 @@
+[submodule "submodules/fullstack-open-project-react"]
+	path = submodules/fullstack-open-project-react
+	url = https://github.com/LeTranAnhVu/fullstack-open-project-react.git
+[submodule "submodules/fullstack-open-project-flask"]
+	path = submodules/fullstack-open-project-flask
+	url = https://github.com/LeTranAnhVu/fullstack-open-project-flask.git
