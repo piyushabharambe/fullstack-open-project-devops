@@ -2,7 +2,7 @@
 using docker to build and deploy submodules.
 
 # demo:
-
+http://13.69.59.60/
 # Instruction
 * install docker and docker compose
 * `git clone https://github.com/LeTranAnhVu/fullstack-open-project-devops.git --recurse-submodules`

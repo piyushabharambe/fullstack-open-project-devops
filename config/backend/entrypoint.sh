@@ -10,4 +10,4 @@ export FLASK_APP="wsgi.py"
 flask db init
 flask db migrate
 flask db upgrade
-gunicorn --bind 0.0.0.0:5000 --workers=3 --timeout=1200 wsgi:app
+gunicorn --bind 0.0.0.0:5000 --workers=7 --timeout=3000 wsgi:app
