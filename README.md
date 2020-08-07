@@ -5,7 +5,7 @@ using docker to build and deploy submodules.
 
 # Instruction
 * install docker and docker compose
-* `git clone https://github.com/LeTranAnhVu/fullstack-open-project-devops.git ----recurse-submodules`
+* `git clone https://github.com/LeTranAnhVu/fullstack-open-project-devops.git --recurse-submodules`
 * run `docker-compose up -d` for background or `docker-compose up` for foreground
 * project start at :`http://localhost`
 * At the first time, you need to waiting for the application create data such as restaurants, category, image, users, etc. Then you can use this application
